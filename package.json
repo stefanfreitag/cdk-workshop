@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@aws-cdk/aws-apigateway": "^0.25.1",
+    "@aws-cdk/aws-dynamodb": "^0.25.1",
     "@aws-cdk/aws-lambda": "^0.25.1",
     "@aws-cdk/aws-sns": "^0.25.0",
     "@aws-cdk/aws-sqs": "^0.25.0",
