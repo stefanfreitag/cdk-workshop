@@ -12,7 +12,7 @@
   "devDependencies": {
     "@types/node": "12.7.2",
     "typescript": "^3.6.2",
-    "aws-cdk": "^1.5.0"
+    "aws-cdk": "^1.6.1"
   },
   "dependencies": {
     "@aws-cdk/aws-apigateway": "^0.25.1",
